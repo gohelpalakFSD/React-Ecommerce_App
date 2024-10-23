@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": "4089",
+      "username": "jivan",
+      "email": "j@gmail.com",
+      "password": "1234",
+      "cpass": "1234"
+    },
+    {
+      "id": "7765",
+      "username": "jivan",
+      "email": "j1@gmail.com",
+      "password": "12345",
+      "cpass": "12345"
+    }
+  ]
+}
